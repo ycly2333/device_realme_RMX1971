@@ -6,3 +6,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/exthm_RMX1971.mk
+
+COMMON_LUNCH_CHOICES := \
+    exthm_RMX1971-user \
+    exthm_RMX1971-userdebug \
+    exthm_RMX1971-eng
